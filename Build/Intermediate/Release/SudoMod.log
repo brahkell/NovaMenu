@@ -1,0 +1,30 @@
+﻿  script.cpp
+c:\users\joe\desktop\novamenu-master\source\Menu.h(129): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(148): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(383): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(388): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(488): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(574): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\joe\desktop\novamenu-master\source\Menu.h(695): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\joe\desktop\novamenu-master\source\Menu.h(700): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\joe\desktop\novamenu-master\source\Menu.h(802): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(808): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(815): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(822): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(875): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(884): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(891): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(898): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\joe\desktop\novamenu-master\source\Menu.h(1281): warning C4551: function call missing argument list
+c:\users\joe\desktop\novamenu-master\source\Menu.h(1294): warning C4551: function call missing argument list
+c:\users\joe\desktop\novamenu-master\source\Menu.h(1297): warning C4551: function call missing argument list
+  Generating code
+  Finished generating code
+  24 of 1433 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    33 functions had inline decision re-evaluated but remain unchanged
+  SudoMod.vcxproj -> C:\Users\Joe\Desktop\NovaMenu-master\Build\Release\SudoMod.ev1
+  SudoMod.vcxproj -> C:\Users\Joe\Desktop\NovaMenu-master\Build\Release\SudoMod.pdb (Full PDB)
